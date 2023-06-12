@@ -1,2 +1,2 @@
 # Ticketbox
-simple vue ticketbox
+simple ticketbox application 
